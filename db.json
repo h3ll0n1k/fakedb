@@ -2,7 +2,19 @@
         "convoys": [
         {
           "id": 1,
-          "title": "Convoglio 1"
+          "title": "Convoglio 1",
+          "slots": [
+           {
+            "id": 1,
+            "time_start": "09:00",
+            "time_end": "09:30"
+           },
+           {
+            "id": 2,
+            "time_start": "10:00",
+            "time_end": "10:30"
+           },
+          ]
         },
         {
           "id": 2,

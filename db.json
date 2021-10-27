@@ -3,7 +3,7 @@
         {
           "id": 1,
           "title": "Convoglio 1",
-          "slots": [
+          "slotsConvoys": [
            {
             "id": 1,
             "time_start": "09:00",
